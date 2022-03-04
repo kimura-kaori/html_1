@@ -1,0 +1,51 @@
+.container{
+  width: 980px;
+  margin: 0 auto;
+  min-height: 100%;
+  position: relative;
+}
+
+.contact tr{
+  height: 7rem;
+  /* width: 150px;
+  padding: 10px; */
+}
+
+.contact th{
+  width: 150px;
+  color: #4D4D4D;
+  padding-right: 1rem;
+  text-align: right;
+}
+
+.radio_box {
+  width: 200px;
+}
+
+.input_size{
+  width: 480px;
+}
+
+.radio{
+  margin-right: 10px;
+  letter-spacing : -3px;
+}
+
+.submit{
+  text-align: center;
+}
+
+.content-form{
+  margin: 10px;
+}
+
+.contact-submit{
+  font-size: 3rem;
+  background-color: #008B8B;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
+.contact-submit:hover{
+  opacity: 0.5;
+}
